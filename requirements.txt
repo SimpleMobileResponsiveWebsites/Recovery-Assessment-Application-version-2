@@ -1,0 +1,9 @@
+streamlit>=1.32.0,<2.0.0
+pandas>=2.0.0,<3.0.0
+plotly>=5.18.0,<6.0.0
+numpy>=1.24.0,<2.0.0
+python-dateutil>=2.8.2,<3.0.0
+pytz>=2024.1
+tzdata>=2024.1
+protobuf>=4.24.4
+watchdog>=3.0.0
